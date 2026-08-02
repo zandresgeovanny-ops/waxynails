@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500" role="img" aria-label="Veta mineral en lila de jacaranda">
+<title>Veta mineral en lila de jacaranda</title>
+<rect width="400" height="500" fill="#F6F2F8"/>
+<path d="M40 460 C 120 350, 90 250, 190 170 S 330 120, 360 40" stroke="#DAD3F0" stroke-width="26" fill="none" stroke-linecap="round"/>
+<path d="M40 380 C 130 300, 110 220, 210 150 S 340 90, 366 30" stroke="#D6C3E2" stroke-width="12" fill="none" stroke-linecap="round"/>
+<circle cx="298" cy="368" r="46" fill="#E6D9EF"/>
+<circle cx="298" cy="368" r="20" fill="#E4D1DE"/>
+<rect width="400" height="500" fill="none" stroke="#E8DFEE" stroke-width="2"/>
+</svg>

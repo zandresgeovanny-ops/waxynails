@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500" role="img" aria-label="Arco de cantera en rosa bugambilia">
+<title>Arco de cantera en rosa bugambilia</title>
+<rect width="400" height="500" fill="#F2EBF7"/>
+<path d="M70 430 V210 a130 130 0 0 1 260 0 V430 z" fill="#F3D2E1"/>
+<path d="M112 430 V212 a88 88 0 0 1 176 0 V430 z" fill="#F2D9D3"/>
+<path d="M152 430 V214 a48 48 0 0 1 96 0 V430 z" fill="#E6D9EF"/>
+<circle cx="200" cy="150" r="15" fill="#D6C3E2"/>
+<rect width="400" height="500" fill="none" stroke="#E8DFEE" stroke-width="2"/>
+</svg>

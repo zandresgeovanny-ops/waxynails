@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Wax &amp; Nails">
+<title>Wax &amp; Nails</title>
+<rect width="64" height="64" rx="15" fill="#D6C3E2"/>
+<g><path d="M23.5 54 V34.2 C23.5 18.8 27.58 10 32 10 C36.42 10 40.5 18.8 40.5 34.2 V54 Z" fill="#5B3B74" stroke="#D6C3E2" stroke-width="1.9" stroke-linejoin="round" transform="rotate(-27 32 54)"/><path d="M23.5 54 V34.2 C23.5 18.8 27.58 10 32 10 C36.42 10 40.5 18.8 40.5 34.2 V54 Z" fill="#5B3B74" stroke="#D6C3E2" stroke-width="1.9" stroke-linejoin="round" transform="rotate(27 32 54)"/><path d="M23.5 54 V40.05 C23.5 29.2 27.58 23 32 23 C36.42 23 40.5 29.2 40.5 40.05 V54 Z" fill="#5B3B74" stroke="#D6C3E2" stroke-width="1.9" stroke-linejoin="round"/></g>
+<circle cx="32" cy="54" r="3.3" fill="#D6C3E2"/>
+</svg>

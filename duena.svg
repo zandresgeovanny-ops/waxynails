@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500" role="img" aria-label="Espacio reservado para la foto de la dueña">
+<title>Espacio reservado para la foto de la dueña</title>
+<rect width="400" height="500" fill="#F2EBF7"/>
+<path d="M0 500 V236 a200 200 0 0 1 400 0 V500 z" fill="#E6D9EF"/>
+<circle cx="200" cy="212" r="72" fill="#D6C3E2"/>
+<path d="M78 500 c0 -74 55 -122 122 -122 s122 48 122 122 z" fill="#D6C3E2"/>
+<path d="M200 140 a72 72 0 0 1 72 72 h-16 a56 56 0 0 0 -112 0 h-16 a72 72 0 0 1 72 -72 z" fill="#9B7FAE" opacity=".7"/>
+<g>
+  <rect x="126" y="424" width="148" height="34" rx="17" fill="#FCFAFD"/>
+  <text x="200" y="446" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12.5" letter-spacing="1.2" fill="#574A63">TU FOTO AQUÍ</text>
+</g>
+<rect width="400" height="500" fill="none" stroke="#8E7C9C" stroke-width="2" stroke-dasharray="10 8"/>
+</svg>
