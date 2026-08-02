@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500" role="img" aria-label="Arco de cantera en tono vino">
+  <title>Arco de cantera en tono vino</title>
+  <rect width="400" height="500" fill="#F6E8E1"/>
+  <path d="M70 430 V210 a130 130 0 0 1 260 0 V430 z" fill="#EBD3C8"/>
+      <path d="M112 430 V212 a88 88 0 0 1 176 0 V430 z" fill="#8E4438"/>
+      <path d="M152 430 V214 a48 48 0 0 1 96 0 V430 z" fill="#C9857A" opacity=".9"/>
+      <circle cx="200" cy="150" r="15" fill="#C9857A"/>
+  <rect width="400" height="500" fill="none" stroke="#E3D6CF" stroke-width="2"/>
+</svg>

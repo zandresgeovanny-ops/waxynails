@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Monograma Wax &amp; Nails">
+  <title>Monograma Wax &amp; Nails</title>
+  <path d="M6 58 V26 a26 26 0 0 1 52 0 V58 z" fill="#EBD3C8"/>
+  <path d="M14 58 V27 a18 18 0 0 1 36 0 V58 z" fill="#8E4438"/>
+  <path d="M22 34 l5 14 l5 -11 l5 11 l5 -14" fill="none" stroke="#FFFCFA" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
