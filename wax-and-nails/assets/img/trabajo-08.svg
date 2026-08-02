@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500" role="img" aria-label="Capas de cera tibia">
-  <title>Capas de cera tibia</title>
-  <rect width="400" height="500" fill="#F2E0C2"/>
-  <path d="M52 372 q52 -46 104 0 t104 0 t104 0 V448 H52 z" fill="#B87A22"/>
-      <path d="M52 296 q52 -46 104 0 t104 0 t104 0 V372 H52 z" fill="#7A4E12" opacity=".85"/>
-      <path d="M52 220 q52 -46 104 0 t104 0 t104 0 V296 H52 z" fill="#F2E0C2"/>
-      <circle cx="200" cy="132" r="42" fill="#7A4E12" opacity=".55"/>
-  <rect width="400" height="500" fill="none" stroke="#E3D6CF" stroke-width="2"/>
-</svg>
